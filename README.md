@@ -24,5 +24,5 @@
 - **ouput**: 输出文件存储路径，包含日志，测试报告，截图等
 - **pagees**: Page Object 页面类
 - **test_cases**: 测试用例
-- **utils**: 工具模块，包含日志配置、json 文件处理等
+- **utils**: 工具模块，包含日志配置、json 文件处理、数据库操作等
 - **conftest.py**: 全局共享配置
