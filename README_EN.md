@@ -23,5 +23,5 @@ After the tests are completed, Pytest hooks are used to collect and summarize te
 - **output**: Output file storage paths, including logs, test reports, screenshots, etc.
 - **pages**: Page Object classes for pages.
 - **test_cases**: Test cases.
-- **utils**: Utility modules, including log configuration, JSON file handling, etc.
+- **utils**: Utility modules, including log configuration, JSON file handling, DB operate, etc.
 - **conftest.py**: Global shared configuration.
