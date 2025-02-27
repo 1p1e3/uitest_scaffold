@@ -1,7 +1,7 @@
 <h1 align="center">uitest_scaffold</h1>
 
 <p align="center">
-  <br>简体中文 | <a href="README_EN.md.md">English</a>
+  <br>简体中文 | <a href="README_EN.md">English</a>
 </p>
 
 ## 说明
